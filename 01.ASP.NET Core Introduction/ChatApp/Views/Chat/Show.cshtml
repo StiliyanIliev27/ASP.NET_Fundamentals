@@ -33,12 +33,18 @@ else
             <label>Message: </label>
             <textarea asp-for="CurrentMessage.MessageText"
                       class="form-control" rows="3"></textarea>
+            <span asp-validation-for="CurrentMessage.MessageText" class="small text-danger"></span>
         </div>
         <div class="col-4">
             <label>Sender Name: </label>
             <input asp-for="CurrentMessage.Sender" class="form-control"/>
             <input class="btn btn-primary mt-2
                    float-lg-right" type="submit" value="Send"/>
+            <span asp-validation-for="CurrentMessage.Sender" class="small text-danger"></span>
         </div>
     </div>
 </form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"/>
+}
