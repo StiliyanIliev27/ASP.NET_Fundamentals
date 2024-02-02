@@ -28,3 +28,34 @@ D:\Programming\SoftUni\ASP.NET Fundamentals_2024\Exercises_ASP.NET Core Introduc
 D:\Programming\SoftUni\ASP.NET Fundamentals_2024\Exercises_ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.pdb
 D:\Programming\SoftUni\ASP.NET Fundamentals_2024\Exercises_ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.genruntimeconfig.cache
 D:\Programming\SoftUni\ASP.NET Fundamentals_2024\Exercises_ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\ref\MVCIntroDemo.dll
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\appsettings.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\MVCIntroDemo.staticwebassets.runtime.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\MVCIntroDemo.exe
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\MVCIntroDemo.deps.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\MVCIntroDemo.runtimeconfig.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\MVCIntroDemo.dll
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\bin\Debug\net6.0\MVCIntroDemo.pdb
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.AssemblyInfoInputs.cache
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.AssemblyInfo.cs
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.csproj.CoreCompileInputs.cache
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.RazorAssemblyInfo.cache
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.RazorAssemblyInfo.cs
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.sourcelink.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets\msbuild.MVCIntroDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCIntroDemo.props
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCIntroDemo.props
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCIntroDemo.props
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\scopedcss\bundle\MVCIntroDemo.styles.css
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\scopedcss\projectbundle\MVCIntroDemo.bundle.scp.css
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.dll
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\refint\MVCIntroDemo.dll
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.pdb
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\MVCIntroDemo.genruntimeconfig.cache
+D:\Programming\GitHubRepositories\ASP.NET_Fundamentals\01.ASP.NET Core Introduction\MVCIntroDemo\obj\Debug\net6.0\ref\MVCIntroDemo.dll

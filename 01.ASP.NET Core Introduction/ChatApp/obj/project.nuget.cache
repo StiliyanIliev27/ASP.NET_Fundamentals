@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SO+CBU+xcKbr9zVbrEj9l80vEPCv+yDNcqrbxpzyzwYEGWGnCk5Db+XgazOPx1fY/zHH+8kGJM/xr3wNW0s+1g==",
+  "dgSpecHash": "LNVFx4JOTE9xI9y2Ojm5WlfL7IqTfr26OADqtekpBrDhq4BW/WvYd8Au18ob5Vz3cLW5byELGs8gqZfNopzxAw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\SoftUni\\ASP.NET Fundamentals_2024\\Exercises_ASP.NET Core Introduction\\ChatApp\\ChatApp.csproj",
+  "projectFilePath": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\01.ASP.NET Core Introduction\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stiliyan\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Stiliyan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -9549,11 +9549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\SoftUni\\ASP.NET Fundamentals_2024\\Exercises_ASP.NET Core Introduction\\ChatApp\\ChatApp.csproj",
+      "projectUniqueName": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\01.ASP.NET Core Introduction\\ChatApp\\ChatApp.csproj",
       "projectName": "ChatApp",
-      "projectPath": "D:\\Programming\\SoftUni\\ASP.NET Fundamentals_2024\\Exercises_ASP.NET Core Introduction\\ChatApp\\ChatApp.csproj",
+      "projectPath": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\01.ASP.NET Core Introduction\\ChatApp\\ChatApp.csproj",
       "packagesPath": "C:\\Users\\Stiliyan\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\SoftUni\\ASP.NET Fundamentals_2024\\Exercises_ASP.NET Core Introduction\\ChatApp\\obj\\",
+      "outputPath": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\01.ASP.NET Core Introduction\\ChatApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stiliyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
