@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Nums 1 ... " + ViewData["Count"];
+    int? count = (int?)ViewData["Count"];
+}
+
+@if(count < 1)
+{
+    <h2>Nums 1 ... N</h2>
+}
+else
+{
+    <h2>@ViewData["Title"]</h2>
+    <ul>
+        @for(int i = 1; i <= count; i++)
+        {
+            <li>@i</li>
+        }
+    </ul>
+}
+
+<form asp-controller="Home" class="form-inline" asp-action="NumbersToN" method="post">
+    <div class="form-group" style="display: flex; flex-direction: row">
+        <input style="width: 200px; margin-right: 7px;" type="number" class="form-control" min="0" step="1" id="count" name="count">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>   
+</form>
