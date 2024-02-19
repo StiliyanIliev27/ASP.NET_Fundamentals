@@ -1,0 +1,17 @@
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\bin\Debug\net6.0\Forum.Data.Models.deps.json
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\bin\Debug\net6.0\Forum.Data.Models.runtimeconfig.json
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\bin\Debug\net6.0\Forum.Data.Models.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\bin\Debug\net6.0\Forum.Data.Models.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\bin\Debug\net6.0\Forum.Common.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\bin\Debug\net6.0\Forum.Common.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.AssemblyInfo.cs
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.csproj.CopyComplete
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\refint\Forum.Data.Models.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\Forum.Data.Models.genruntimeconfig.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Data.Models\obj\Debug\net6.0\ref\Forum.Data.Models.dll

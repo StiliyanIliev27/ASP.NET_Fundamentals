@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.deps.json
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfo.cs
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\refint\Forum.ViewModels.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\ref\Forum.ViewModels.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\bin\Debug\net6.0\Forum.Common.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\bin\Debug\net6.0\Forum.Common.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.CopyComplete

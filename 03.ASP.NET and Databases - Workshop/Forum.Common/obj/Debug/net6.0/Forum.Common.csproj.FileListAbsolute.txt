@@ -1,0 +1,11 @@
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\bin\Debug\net6.0\Forum.Common.deps.json
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\bin\Debug\net6.0\Forum.Common.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\bin\Debug\net6.0\Forum.Common.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.AssemblyInfo.cs
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\refint\Forum.Common.dll
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.pdb
+D:\Programming\SoftUni\ASP.NET Fundamentals_2024\03.ASP.NET and Databases - Workshop\Forum.Common\obj\Debug\net6.0\ref\Forum.Common.dll
