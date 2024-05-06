@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
-using SeminarHub.Data;
+using SeminarHub.Data; 
 
 namespace SeminarHub
 {
