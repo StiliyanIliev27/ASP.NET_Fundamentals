@@ -34,7 +34,7 @@ namespace SeminarHub.Controllers
                     Organizer = s.Organizer.UserName,
                     DateAndTime = s.DateAndTime.ToString(EntityValidationConstants.DateTimeFormat)
                 })
-                .ToListAsync();
+                .ToListAsync();        
 
             return View(model);
         }

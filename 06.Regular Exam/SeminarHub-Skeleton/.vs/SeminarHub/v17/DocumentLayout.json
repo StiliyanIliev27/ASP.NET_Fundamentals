@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\06.Regular Exam\\SeminarHub-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\programming\\githubrepositories\\asp.net_fundamentals\\06.regular exam\\seminarhub-skeleton\\seminarhub\\controllers\\seminarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\controllers\\seminarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{290d74ba-151f-5f8b-b7df-7de2c7b571a7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeminarController.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\06.Regular Exam\\SeminarHub-Skeleton\\SeminarHub\\Controllers\\SeminarController.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Controllers\\SeminarController.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\ASP.NET_Fundamentals\\06.Regular Exam\\SeminarHub-Skeleton\\SeminarHub\\Controllers\\SeminarController.cs",
+              "RelativeToolTip": "SeminarHub\\Controllers\\SeminarController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:23:00.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1695,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
