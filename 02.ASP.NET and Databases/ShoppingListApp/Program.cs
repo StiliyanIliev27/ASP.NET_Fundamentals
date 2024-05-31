@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ShoppingListApp.Contracts;
 using ShoppingListApp.Contracts.Interfaces;
-using ShoppingListApp.Data;
+using ShoppingListApp.Data; 
 
 namespace ShoppingListApp
 {
